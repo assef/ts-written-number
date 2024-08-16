@@ -1,6 +1,6 @@
 {
   "name": "written-number-ts",
-  "version": "0.11.1",
+  "version": "0.11.1.1",
   "description": "Convert numbers to words - their written form. TypeScript support.",
   "main": "lib/index.js",
   "scripts": {
