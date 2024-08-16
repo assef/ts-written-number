@@ -6,19 +6,19 @@
 With npm:
 
 ```bash
-npm install --save written-number
+npm install written-number-ts
 ```
 
 With bower:
 
 ```bash
-bower install written-number
+bower install written-number-ts
 ```
 
 ## Usage
 
 ```javascript
-var writtenNumber = require("written-number");
+import writtenNumber from "written-number-ts";
 writtenNumber(1234); // => 'one thousand two hundred and thirty-four'
 
 writtenNumber.defaults.lang = "es";
