@@ -1,4 +1,4 @@
-declare module "written-number" {
+declare module "written-number-ts" {
   export type DefaultLanguage =
     | "en"
     | "es"
