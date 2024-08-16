@@ -1,6 +1,6 @@
 {
   "name": "written-number-ts",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "description": "Convert numbers to words - their written form. TypeScript support.",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yamadapc/js-written-number"
+    "url": "https://github.com/Gambster/ts-written-number"
   },
   "devDependencies": {
     "blanket": "1.1.7",
